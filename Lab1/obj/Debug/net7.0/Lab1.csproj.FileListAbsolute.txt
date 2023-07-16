@@ -1,0 +1,30 @@
+C:\C-DAC STUDY_MATERIAL\c#.net\Websites\Lab1\bin\Debug\net7.0\Lab1.exe
+C:\C-DAC STUDY_MATERIAL\c#.net\Websites\Lab1\bin\Debug\net7.0\Lab1.deps.json
+C:\C-DAC STUDY_MATERIAL\c#.net\Websites\Lab1\bin\Debug\net7.0\Lab1.runtimeconfig.json
+C:\C-DAC STUDY_MATERIAL\c#.net\Websites\Lab1\bin\Debug\net7.0\Lab1.dll
+C:\C-DAC STUDY_MATERIAL\c#.net\Websites\Lab1\bin\Debug\net7.0\Lab1.pdb
+C:\C-DAC STUDY_MATERIAL\c#.net\Websites\Lab1\obj\Debug\net7.0\Lab1.csproj.AssemblyReference.cache
+C:\C-DAC STUDY_MATERIAL\c#.net\Websites\Lab1\obj\Debug\net7.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-DAC STUDY_MATERIAL\c#.net\Websites\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfoInputs.cache
+C:\C-DAC STUDY_MATERIAL\c#.net\Websites\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfo.cs
+C:\C-DAC STUDY_MATERIAL\c#.net\Websites\Lab1\obj\Debug\net7.0\Lab1.csproj.CoreCompileInputs.cache
+C:\C-DAC STUDY_MATERIAL\c#.net\Websites\Lab1\obj\Debug\net7.0\Lab1.dll
+C:\C-DAC STUDY_MATERIAL\c#.net\Websites\Lab1\obj\Debug\net7.0\refint\Lab1.dll
+C:\C-DAC STUDY_MATERIAL\c#.net\Websites\Lab1\obj\Debug\net7.0\Lab1.pdb
+C:\C-DAC STUDY_MATERIAL\c#.net\Websites\Lab1\obj\Debug\net7.0\Lab1.genruntimeconfig.cache
+C:\C-DAC STUDY_MATERIAL\c#.net\Websites\Lab1\obj\Debug\net7.0\ref\Lab1.dll
+C:\Users\admin\Desktop\Lab1\bin\Debug\net7.0\Lab1.exe
+C:\Users\admin\Desktop\Lab1\bin\Debug\net7.0\Lab1.deps.json
+C:\Users\admin\Desktop\Lab1\bin\Debug\net7.0\Lab1.runtimeconfig.json
+C:\Users\admin\Desktop\Lab1\bin\Debug\net7.0\Lab1.dll
+C:\Users\admin\Desktop\Lab1\bin\Debug\net7.0\Lab1.pdb
+C:\Users\admin\Desktop\Lab1\obj\Debug\net7.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Lab1\obj\Debug\net7.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfo.cs
+C:\Users\admin\Desktop\Lab1\obj\Debug\net7.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Lab1\obj\Debug\net7.0\Lab1.dll
+C:\Users\admin\Desktop\Lab1\obj\Debug\net7.0\refint\Lab1.dll
+C:\Users\admin\Desktop\Lab1\obj\Debug\net7.0\Lab1.pdb
+C:\Users\admin\Desktop\Lab1\obj\Debug\net7.0\Lab1.genruntimeconfig.cache
+C:\Users\admin\Desktop\Lab1\obj\Debug\net7.0\ref\Lab1.dll
